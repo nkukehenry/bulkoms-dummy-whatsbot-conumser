@@ -1,4 +1,13 @@
 {
+  "type": "module",
+  "name": "cheetahnet-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Cheetahnet Internet Services WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
   "dependencies": {
     "body-parser": "^2.2.0",
     "express": "^5.1.0",
